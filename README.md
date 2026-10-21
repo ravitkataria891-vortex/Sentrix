@@ -145,7 +145,3 @@ Because stages are an ordered, generic chain, each of these can be added indepen
 | **Ravit Kataria** | Systems Architect | Integration loop and stage-chain interface; pointer-ownership model between the LRU hash map and linked list; benchmarking script. |
 | **Imdadul Hoque Laskar** | Data Structures Lead | LRU Cache with a custom doubly linked list synchronized with the hash map for `O(1)` eviction and pointer safety; caching-vs-baseline benchmark case. |
 | **Jaidev Mahadev Araundekar** | Algorithms Developer | Bloom Filter over `std::vector<bool>`, FNV-1a / MurmurHash, flush-threshold policy, and false-positive rate measurement. |
-
-## License
-
-Add a license here (e.g. MIT) and include a `LICENSE` file in the repo root.
